@@ -8,7 +8,7 @@ function preload() {
 function setup() {
 	createCanvas(800,300);
 	background(255, 209, 0);
-	var points = font.textToPoints('rubosta',100,200,200);
+	var points = font.textToPoints('robusta',100,200,200);
 	
 
 	for (var i = 0; i < points.length; i++){
