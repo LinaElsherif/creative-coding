@@ -1,4 +1,4 @@
-# creative-coding
+﻿# creative-coding
 a task for creative coding (steering)
 
 A p5.js steering project. 
@@ -11,6 +11,8 @@ Change to the directory containing your static web files
 
 Start the server with this command:	
 http-server
+
+
 
 
 
