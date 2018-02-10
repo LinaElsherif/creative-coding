@@ -12,6 +12,8 @@ Change to the directory containing your static web files
 Start the server with this command:	
 http-server
 
+<img src="https://i.imgflip.com/24bvjb.gif"/>
+
 
 
 
